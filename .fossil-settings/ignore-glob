@@ -1,0 +1,4 @@
+*/*.o
+wiiudownloader
+config.txt
+config.txt.bak
