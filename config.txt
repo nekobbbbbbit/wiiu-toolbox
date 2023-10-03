@@ -1,0 +1,2 @@
+wiiu_common_key=
+rhythm_heaven_fever_key=
